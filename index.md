@@ -7,7 +7,7 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 [Link to another page](./another-page.html).
 
 
-[Diretrizes para repositórios de dados de pesquisa](https://ibict-br.github.io/diretrizes)
+[Diretrizes para repositórios de dados de pesquisa](https://ibict-br.github.io/Diretrizes)
 
 
 There should be whitespace between paragraphs.
