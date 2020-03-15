@@ -6,6 +6,10 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
 
+
+[Diretrizes para repositórios de dados de pesquisa](https://ibict-br.github.io/diretrizes)
+
+
 There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
