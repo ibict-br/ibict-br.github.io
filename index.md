@@ -4,9 +4,9 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./another-page.html)
+[Link to another page](./another-page.html).
 
-<a href="https://ibict-br.github.io/Diretrizes" target="_blank" rel="noopener"><span>Diretrizes para repositórios de dados de pesquisa</span> </a>
+<a href="https://ibict-br.github.io/Diretrizes" target="_blank" rel="noopener"><span>Diretrizes para repositórios de dados de pesquisa</span> </a>.
 
 There should be whitespace between paragraphs.
 
